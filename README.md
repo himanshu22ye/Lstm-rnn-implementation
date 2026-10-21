@@ -108,11 +108,8 @@ lstm implementation final/
 ### 1. Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_FOLDER>
+git clone <https://github.com/himanshu22ye/Lstm-rnn-implementation.git>
 ```
-
-Replace the placeholders with your actual GitHub repository URL and folder name.
 
 ### 2. Create a Virtual Environment
 
